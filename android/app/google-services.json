@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "809743636814",
+    "project_id": "learn-to-code-app-ab4cf",
+    "storage_bucket": "learn-to-code-app-ab4cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809743636814:android:f94791f4b1eeac1fefa61f",
+        "android_client_info": {
+          "package_name": "com.example.project_ltc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809743636814-72pma6tauiiimljgnge1kgi696d4lica.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtyEpltEltcP4VvIGGih8yV9b6EYFq1Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809743636814-72pma6tauiiimljgnge1kgi696d4lica.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809743636814-sm662j3vip5blhir4b0dibojsss4dsdj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectLtc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
